@@ -1,4 +1,4 @@
-package ugam.solutions.doselect;
+package others;
 
 public class HelloWorld {
 
